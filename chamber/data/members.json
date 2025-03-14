@@ -1,0 +1,61 @@
+{
+    "members": [
+      {
+        "name": "Tech Solutions Ltd.",
+        "address": "123 Innovation Drive, Lagos, Nigeria",
+        "phone": "+234 800 123 4567",
+        "website": "https://www.techsolutions.com",
+        "image": "techsol.png",
+        "membership": 3
+      },
+      {
+        "name": "Green Energy Co.",
+        "address": "456 Solar Street, Abuja, Nigeria",
+        "phone": "+234 801 234 5678",
+        "website": "https://www.greenenergy.com",
+        "image": "greensol.png",
+        "membership": 2
+      },
+      {
+        "name": "Fast Logistics",
+        "address": "789 Cargo Lane, Port Harcourt, Nigeria",
+        "phone": "+234 802 345 6789",
+        "website": "https://www.fastlogistics.com",
+        "image": "fast.png",
+        "membership": 1
+      },
+      {
+        "name": "Market Pro Marketing",
+        "address": "321 Digital Road, Enugu, Nigeria",
+        "phone": "+234 803 456 7890",
+        "website": "https://www.marketpro.com",
+        "image": "maket.png",
+        "membership": 2
+      },
+      {
+        "name": "Elite Finance",
+        "address": "654 Bank Street, Kano, Nigeria",
+        "phone": "+234 804 567 8901",
+        "website": "https://www.elitefinance.com",
+        "image": "images.jpg",
+        "membership": 3
+      },
+      {
+        "name": "Auto World",
+        "address": "987 Car Avenue, Ibadan, Nigeria",
+        "phone": "+234 805 678 9012",
+        "website": "https://www.autoworld.com",
+        "image": "autowrld.png",
+        "membership": 1
+      },
+      {
+        "name": "Health First Medical",
+        "address": "159 Wellness Blvd, Benin City, Nigeria",
+        "phone": "+234 806 789 0123",
+        "website": "https://www.healthfirst.com",
+        "image": "health.png",
+        "membership": 2
+      }
+    ]
+  }
+  
