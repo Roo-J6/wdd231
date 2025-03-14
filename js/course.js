@@ -1,6 +1,3 @@
-document.getElementById('year').textContent = new Date().getFullYear();
-document.getElementById('lastModified').textContent = "Last Update: " + document.lastModified;
-
 const courses = [
     { code: "CSE 110", category: "CSE", completed: true },
     { code: "WDD 130", category: "WDD", completed: true },
