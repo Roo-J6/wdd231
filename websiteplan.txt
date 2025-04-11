@@ -1,3 +1,4 @@
+
 Site Name: Mountain Explorer Hub  
 Mountain Explorer Hub was selected as the site name because it represents a central platform for outdoor enthusiasts who love to explore mountainous regions. It provides a hub of information, resources, and community engagement for hikers, climbers, and nature lovers.
 
@@ -8,7 +9,7 @@ Scenarios:
 1. What are the best hiking trails for beginners in the Rocky Mountains?  
 2. Where can I find expert reviews on hiking and climbing gear?
 
-Color Schema: 
+Color Schema:
 - Primary Color: Forest Green (#228B22) - Used for headings and call-to-action buttons.  
 - Secondary Color: Earthy Brown (#8B4513) - Used for backgrounds and accents.  
 - Neutral Color: Light Beige (#F5F5DC) - Used for body text and content backgrounds.  
